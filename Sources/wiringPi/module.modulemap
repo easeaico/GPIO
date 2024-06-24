@@ -1,4 +1,4 @@
-module gpiod {
+module wiringPi {
     umbrella header "wiringPi.h"
     link "wiringPi"
 }
